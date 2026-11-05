@@ -1,0 +1,5 @@
+build/
+tools/alphamask
+# cat clips are cut from third-party video; supply your own (see README)
+Resources/*.mov
+.DS_Store
