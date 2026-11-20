@@ -4,6 +4,14 @@
 
 macOS menu-bar app: after a work interval it covers the screen with a transparent-background video of a fat cat that walks around, lies down, and reminds you to rest or drink water.
 
+<div align="center">
+
+![Demo](docs/demo.gif)
+
+<sub>Illustrative animation of the main flow (not a screen recording).</sub>
+
+</div>
+
 ## Build
 ```
 ./build.sh        # builds and installs ~/Applications/FatCatReminder.app
