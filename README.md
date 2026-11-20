@@ -1,4 +1,4 @@
-# Fat Cat Reminder
+# 🐱 Fat Cat Reminder
 
 [![License: MIT](https://img.shields.io/github/license/rajumuke-dev/fat-cat-reminder)](LICENSE) [![Platform](https://img.shields.io/badge/platform-macOS-lightgrey)](#) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md) [![Stars](https://img.shields.io/github/stars/rajumuke-dev/fat-cat-reminder?style=social)](https://github.com/rajumuke-dev/fat-cat-reminder)
 
