@@ -8,7 +8,7 @@ macOS menu-bar app: after a work interval it covers the screen with a transparen
 
 ![Demo](docs/demo.gif)
 
-<sub>Illustrative animation of the main flow (not a screen recording).</sub>
+<sub>Illustrative animation built from the app's real cat frames (not a screen recording). Cat video: FASTILY, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) (Wikimedia Commons); frames in `docs/demo.gif` are shared under the same license.</sub>
 
 </div>
 
